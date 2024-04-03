@@ -16,3 +16,4 @@ AWS_ACCOUNT_ID=$(aws sts get-caller-identity --query Account --output text)
 ```
 aws ec2 describe-instances
 ```
+
